@@ -26,7 +26,7 @@ public class Floor {
     
     for (int i = 0; i < int(this.floorSize.y); i++) {
       for (int j = 0; j < int(this.floorSize.x); j++) {
-        isEmptyTable[i][j] = Math.random() > 0.65;
+        isEmptyTable[i][j] = Math.random() > 0.5;
       }
     }
       

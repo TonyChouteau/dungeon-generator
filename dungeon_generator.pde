@@ -28,7 +28,7 @@ void setup() {
   
   noLoop();
   
-  dungeon = new Dungeon(1, new PVector(5, 5));
+  dungeon = new Dungeon(1, new PVector(7, 7));
   dungeon.initialized();
 }
 
