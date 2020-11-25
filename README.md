@@ -1,4 +1,4 @@
-# dungeon-generator
+# Dungeon Generator 2D
 Binded project to generate 2D dungeon with multiple floor with multiple rooms on each one.
 
 ## Step 1
